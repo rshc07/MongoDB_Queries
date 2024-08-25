@@ -1,8 +1,7 @@
 # MongoDB Queries
 
 ## 1. Retrieve all information about each product:
-    
-    ```bash
+    ```
     db.products.find({})
 
 ## 2. Find products with a price between 400 and 800:
