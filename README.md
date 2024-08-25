@@ -1,6 +1,7 @@
 # MongoDB Queries
 
 ## 1. Retrieve all information about each product:
+    
     ```bash
     db.products.find({})
 
